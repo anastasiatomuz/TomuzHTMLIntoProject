@@ -1,12 +1,15 @@
-hello{
-    color: red;
-}
 
-h1{
+h1 {
+    font-size: 4rem;
     text-align: center;
-    color: plum;
-    background-color: rgb(184, 18, 184);
-}
+    color: rgb(184, 18, 184);
+    text-shadow: 2px 2px 10px black;
+  }
+
+  h2{
+    color: rgb(184, 18, 184)
+  }
+  
 
 td{
     text-align: center;
@@ -18,8 +21,9 @@ body{
 }
 
 nav {
-    height: 50px;
-    background-color: #ff80ff;
+    height: 100px;
+    vertical-align: middle;
+    background-color:rgb(184, 18, 184);
     display: flex;
     margin-bottom: 10px;
   }
@@ -42,6 +46,6 @@ nav {
     font-size: 2rem;
     text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    color: plum;
   }
   
