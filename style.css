@@ -21,7 +21,7 @@ body{
 }
 
 nav {
-    height: 100px;
+    height: 75px;
     vertical-align: middle;
     background-color:rgb(184, 18, 184);
     display: flex;
@@ -47,5 +47,9 @@ nav {
     text-transform: uppercase;
     text-decoration: none;
     color: plum;
+  }
+
+  on_page{
+    color: rgb(113, 18, 113);
   }
   
